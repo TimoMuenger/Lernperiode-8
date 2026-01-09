@@ -12,6 +12,7 @@ Ich kann z.B lernen wie ich Code mit dem genaueren definieren von Variabeln übe
 ## 09.01
 Heut habe ich gelernt wie ich TypeScript Code kompiliere und in JavaScript Code umwandle. Dabei ist mir aufgefallen das der compiler eine ältere Version von JS benutzt.
 Auch habe ich noch einen kleinen Beispiel Code geschrieben und mir ein Tutorial zu TS raus gesucht.
+https://www.youtube.com/watch?v=d56mG7DezGs
 
 ## 16.01
 
