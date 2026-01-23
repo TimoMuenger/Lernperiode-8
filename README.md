@@ -25,7 +25,14 @@ Auch musste ich noch viele Einstellungen in den Compilersettings ändern, dass a
 
 ## 23.01 
 
-- [ ] Tutorial beenden
-- [ ] Ich möchte lernen wie man das gecodete ansehen kann in TS
-- [ ] Eine Projekt Idee finden
-- [ ] Das Projekt programmieren um etwas für das Tutorial nach den Ferien zu haben
+- [x] Tutorial beenden
+- [x] Ich möchte lernen wie man das gecodete ansehen kann in TS
+- [x] Eine Projekt Idee finden
+- [x] Das Projekt programmieren um etwas für das Tutorial nach den Ferien zu haben
+
+Heute habe ich das Tutorial beendet und nocht ein weiters geschaut, darüber wie TS und HTML zusammen funktionieren, damit ich ein Projekt für mein Tutorial haben. Anschliessend habe ich eine kleine Task App gemacht.
+
+## 13.02
+
+- [ ] Weitere Funktion Zum Projekt hinzufügen
+- [ ] Ein Tutorial über TS erstellen
