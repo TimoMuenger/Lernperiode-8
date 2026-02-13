@@ -34,5 +34,7 @@ Heute habe ich das Tutorial beendet und nocht ein weiters geschaut, darüber wie
 
 ## 13.02
 
-- [ ] Weitere Funktion Zum Projekt hinzufügen
-- [ ] Ein Tutorial über TS erstellen
+- [x] Weitere Funktion Zum Projekt hinzufügen
+- [x] Ein Tutorial über TS erstellen
+
+Heut habe ich zu der Task App noch weiter Funktionen hinzugefügt, damit ich daraus ein Tutorial machen konnte. 
