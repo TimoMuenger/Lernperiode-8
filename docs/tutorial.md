@@ -37,7 +37,7 @@ interface Task {
 let tasks: Task[] = [];
 ```
 ```TS
-// FEATURE 3: Type Assertion 
+// Type Assertion 
 // Other than in JavaScript you need to use as HTML...
 let taskInput = document.getElementById("taskInput") as HTMLInputElement;
 let priorityInput = document.getElementById("priorityInput") as HTMLSelectElement;
