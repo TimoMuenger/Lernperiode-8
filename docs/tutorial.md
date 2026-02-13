@@ -12,7 +12,7 @@ I'll assume you already know the basics of JavaScript and HTML.
 
 # What you'll learn
 
-You'll learn about Union Types, Interfaces, Arrays, Type Assertion and Functions
+You'll learn about Union Types, Interfaces, Arrays, Type Assertion and Functions in TypeScript
 
 # Tutorial
 
