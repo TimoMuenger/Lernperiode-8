@@ -49,6 +49,36 @@ let taskList = document.getElementById("taskList") as HTMLUListElement;
 // Defines exactly which values are allowed
 type Priority = "Niedrig" | "Mittel" | "Hoch";
 ```
+```TS
+// Functions:
+// You need to define the return value of a fuction for example ": void"
+function addTask(): void { 
+    let title: string = taskInput.value;
+    let priority = priorityInput.value as Priority; 
+
+    if (title === "") return;
+
+    let newTask: Task = {
+        id: Date.now(),
+        title: title,
+        isCompleted: false,
+        priority: priority
+    };
+
+    tasks.push(newTask);
+    renderTasks();
+    taskInput.value = "";
+}
+
+function toggleTask(id: number): void {
+    let task = tasks.find(t => t.id === id);
+    if (task) {
+        task.isCompleted = !task.isCompleted;
+        renderTasks();
+    }
+}
+```
+
 # Result
 
 # What could go wrong?
