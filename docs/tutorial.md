@@ -82,3 +82,5 @@ function toggleTask(id: number): void {
 # Result
 
 # What could go wrong?
+
+A very common mistake that often happened to me is that you forget to compile the TypeScript file to JavaScript (VS Terminal: tsc fileName.ts)
