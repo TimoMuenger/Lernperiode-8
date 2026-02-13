@@ -21,7 +21,34 @@ You'll learn about Union Types, Interfaces, Arrays, Type Assertion and Functions
 // Defines exactly which values are allowed
 type Priority = "Niedrig" | "Mittel" | "Hoch";
 ```
-
+```TS
+// Interfaces:
+// If you define the shape of the object, every task has the same structur
+interface Task {
+    id: number;
+    title: string;
+    isCompleted: boolean;
+    priority: Priority; 
+}
+```
+```TS
+// Arrays:
+// This spesific array is only allowed to contain "Task" objects
+let tasks: Task[] = [];
+```
+```TS
+// FEATURE 3: Type Assertion 
+// Other than in JavaScript you need to use as HTML...
+let taskInput = document.getElementById("taskInput") as HTMLInputElement;
+let priorityInput = document.getElementById("priorityInput") as HTMLSelectElement;
+let addBtn = document.getElementById("addBtn") as HTMLButtonElement;
+let taskList = document.getElementById("taskList") as HTMLUListElement;
+```
+```TS
+// Union Types:
+// Defines exactly which values are allowed
+type Priority = "Niedrig" | "Mittel" | "Hoch";
+```
 # Result
 
 # What could go wrong?
