@@ -1,22 +1,22 @@
 ---
-title: Mein Tutorial
+TypeScript Tutorial
 ---
 
 # Goal
 
-In this tutorial, you will learn how to create a simple console-based chess...
+In this tutorial, you will learn how to create a simple Task-App.
 
 # Previous Knowledge
 
-We'll assume you already know the basics of C# and can...
+I'll assume you already know the basics of JavaScript and HTML.
 
 # What you'll learn
 
-We'll assume you already know the basics of C# and can...
+You'll learn about Union Types, Interfaces, Arrays, Type Assertion and Functions
 
 # Tutorial
 
-```csharp
+```TS
 Console.WriteLine("This is a code snippet using ```")
 ```
 
