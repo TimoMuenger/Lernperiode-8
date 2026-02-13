@@ -4,7 +4,7 @@ TypeScript Tutorial
 
 # Goal
 
-In this tutorial, you will learn how to create a simple Task-App.
+In this tutorial, you will learn how to create a simple Task-App with TypeScript.
 
 # Previous Knowledge
 
