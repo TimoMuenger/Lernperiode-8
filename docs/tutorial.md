@@ -17,7 +17,9 @@ You'll learn about Union Types, Interfaces, Arrays, Type Assertion and Functions
 # Tutorial
 
 ```TS
-Console.WriteLine("This is a code snippet using ```")
+// Union Types:
+// Defines exactly which values are allowed
+type Priority = "Niedrig" | "Mittel" | "Hoch";
 ```
 
 # Result
