@@ -19,7 +19,7 @@ You'll learn about Union Types, Interfaces, Arrays, Type Assertion and Functions
 ```TS
 // Union Types:
 // Defines exactly which values are allowed
-type Priority = "Niedrig" | "Mittel" | "Hoch";
+type Priority = "Low" | "Medium" | "High";
 ```
 ```TS
 // Interfaces:
