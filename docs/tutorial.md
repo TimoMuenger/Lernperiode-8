@@ -81,6 +81,7 @@ function toggleTask(id: number): void {
 
 # Result
 If you add some Event Listeners and creat an appropriate HTML file the whole thing should look something like this:
+
 ![Recording 2026-02-13 110836](https://github.com/user-attachments/assets/c70305ad-abfb-4faa-96f6-ee87ced929ec)
 
 # What could go wrong?
